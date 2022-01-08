@@ -1,0 +1,14 @@
+sáb 08 ene 2022 12:44:01 CET
+/home/albduranlopez
+/home/albduranlopez
+/home/albduranlopez
+No module named 'picamera'
+No module named 'picamera'
+found.png
+No module named 'picamera'
+sáb 08 ene 2022 12:50:01 CET
+No module named 'picamera'
+No module named 'picamera'
+found.png
+No module named 'picamera'
+sáb 08 ene 2022 13:00:01 CET
