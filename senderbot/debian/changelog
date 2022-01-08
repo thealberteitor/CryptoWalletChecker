@@ -1,0 +1,49 @@
+senderbot (0.4.0-0extras17.10.0) artful; urgency=medium
+
+  * Inline bot
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Thu, 26 Oct 2017 13:46:51 +0200
+
+senderbot (0.3.4-0extras17.04.0) zesty; urgency=medium
+
+  * Picamera
+  * Send images from url
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Wed, 18 Oct 2017 14:57:32 +0200
+
+senderbot (0.3.3-0extras17.04.4) zesty; urgency=medium
+
+  * Added OpenVPN status
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Fri, 13 Oct 2017 13:41:25 +0200
+
+senderbot (0.3.2-0extras17.04.0) zesty; urgency=medium
+
+  * Added servicios
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 30 Sep 2017 08:27:37 +0200
+
+senderbot (0.3.1-0extras17.04.0) zesty; urgency=medium
+
+  * Working alone
+  * Looking for services
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 30 Sep 2017 08:07:05 +0200
+
+senderbot (0.2.1-0extras17.04.0) zesty; urgency=medium
+
+  * Added dependencies
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Thu, 21 Sep 2017 12:49:21 +0200
+
+senderbot (0.2.0-0extras17.04.0) zesty; urgency=medium
+
+  * Added services to send message on start o shutdown
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Thu, 21 Sep 2017 12:38:18 +0200
+
+senderbot (0.1.0-0extras17.04.4) zesty; urgency=medium
+
+  * First release
+
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sat, 09 Sep 2017 19:13:43 +0200
